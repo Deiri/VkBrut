@@ -1,2 +1,2 @@
-pip install colorama
-pip install vk_api
+pip3 install colorama
+pip3 install vk_api
